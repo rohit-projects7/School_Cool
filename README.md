@@ -110,4 +110,4 @@ Provide instructions on how to use your application. This should include how to 
 
 ## Contributing
 
-SchoolCool a full stack project is solely belongs to Rohit kumar singh
+SchoolCool a full stack project is solely belongs to Rohit kumar singh .
