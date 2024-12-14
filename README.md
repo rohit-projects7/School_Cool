@@ -56,8 +56,8 @@ List the technologies, frameworks, and libraries used to build your application.
   - MongoDB for the database
 
 - Deployment:
-  - Heroku (backend)
-  - Netlify (frontend)
+  - Render (backend)
+  - Render (frontend)
   - MongoDB Atlas (database)
 
 ## Getting Started
